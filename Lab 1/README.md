@@ -69,10 +69,13 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
-**Setting:**
-**Players:**
-**Activity:**
-**Goals:**
+**Setting:** The setting is in the living room or workout area within your home. We confined it to a home given COVID-19.
+
+**Players:** The key player in this interaction is the fitness individual using the yoga mat. In this case, let's call our main player Naomi. 
+
+**Activity:** The activity is any type of high intensity, medium intensity, or low intensity workout done on a yoga mat. 
+
+**Goals:** The goal is to allow Naomi to get a cue to move onto the next exercise without having to look at her phone. 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
